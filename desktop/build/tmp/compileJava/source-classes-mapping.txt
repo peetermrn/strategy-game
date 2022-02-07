@@ -1,0 +1,2 @@
+com/gamefromscratch/desktop/DesktopLauncher.java
+ com.gamefromscratch.desktop.DesktopLauncher

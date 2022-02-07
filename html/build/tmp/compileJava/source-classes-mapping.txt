@@ -1,0 +1,2 @@
+com/gamefromscratch/client/HtmlLauncher.java
+ com.gamefromscratch.client.HtmlLauncher
